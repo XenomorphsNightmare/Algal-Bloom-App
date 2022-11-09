@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Nov  7 15:27:57 2022
 
-@author: gergo
-"""
 import streamlit as st
 import joblib
 import pandas as pd 
