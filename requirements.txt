@@ -2,4 +2,4 @@ joblib
 streamlit 
 pandas
 xgboost
-
+sklearn
