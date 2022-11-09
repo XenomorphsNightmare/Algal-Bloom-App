@@ -1,4 +1,4 @@
 joblib @ file:///tmp/build/80754af9/joblib_1635411271373/work
 streamlit @ file:///tmp/abs_c4af64a6-e8cd-486a-8e7a-4fa8b9d0c903olpgeyyl/croots/recipe/streamlit_1657914742590/work
-
+pandas==1.4.4
 
